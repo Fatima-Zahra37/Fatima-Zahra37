@@ -12,6 +12,7 @@ Forte culture business issue de 15 ans d'expérience en environnements IT et mé
 
 | Projet | Description | Stack |
 |--------|-------------|-------|
+| [Accidents de la route France 2024](https://github.com/Fatima-Zahra37/analyse-accidents-route-france-2024) | 54 402 accidents analysés — où agir en priorité : routes départementales = 54 % des victimes graves | Python, SQL (DuckDB), Power BI |
 | [Analyse e-commerce TheLook 2023-2024](https://github.com/Fatima-Zahra37/projet-ecommerce-data) | Performance commerciale France/Women — CA +101%, marge +99,6% | Python, BigQuery, Power BI |
 | [Analyse B2B Online Retail Kaggle](https://github.com/Fatima-Zahra37/Projet-vente-en-ligne_kaggle) | E-commerce UK 2010-2011 — £10,6M CA, segmentation clients | Python, BigQuery, Power BI |
 
