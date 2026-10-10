@@ -42,6 +42,8 @@ Après 15 ans en développement commercial et gestion de comptes (IT, banque, as
 
 `Python` `BigQuery` `Power BI` → [Voir le projet](https://github.com/Fatima-Zahra37/Projet-vente-en-ligne_kaggle)
 
+<img src="https://github.com/Fatima-Zahra37/Projet-vente-en-ligne_kaggle/raw/main/images/dashboard_kaggle.png" width="600" alt="Tableau de bord vente en ligne B2B">
+
 ---
 
 ### 🛠️ Compétences
