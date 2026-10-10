@@ -59,4 +59,4 @@ Après 15 ans en développement commercial et gestion de comptes (IT, banque, as
 
 ### 📫 Me contacter
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/fatima-zahra-frindou) [![CV](https://img.shields.io/badge/Mon_CV-PDF-red?style=flat)]([lien vers ton CV]) [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:[ton adresse email])
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/fatima-zahra-frindou)
