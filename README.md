@@ -40,7 +40,7 @@ Après 15 ans en développement commercial et gestion de comptes (IT, banque, as
 ### 🛒 Vente en ligne B2B — Royaume-Uni 2010-2011
 **Question métier :** qui sont les clients qui font le chiffre d'affaires ?
 - **Analysé** 10,4 M£ de ventes sur plus de 520 000 transactions
-- **Montré** que 29 % des clients (les « Champions ») pèsent **77 % du CA**
+- **Montré** que 29 % des clients (les « Champions ») pèsent **77 % du CA** des clients identifiés
 - **Révélé** que les Pays-Bas ont le **panier moyen le plus élevé** à l'international (3 053 £)
 - **Détecté et corrigé** deux pièges des données : dates inversées et commandes géantes annulées (245 000 £ de ventes fantômes)
 
