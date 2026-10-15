@@ -13,14 +13,13 @@ Après 15 ans en développement commercial et gestion de comptes (IT, banque, as
 
 ### 🏦 Départs clients cartes de crédit — qui risque de partir ?
 
-**Question métier** : quels clients risquent de résilier leur carte, et quels signaux la banque peut-elle surveiller pour agir à temps ?
-
+**Question métier :** quels clients risquent de résilier leur carte, et quels signaux la banque peut-elle surveiller pour agir à temps ?
 - **Analysé** 10 127 clients d'une banque, dont 16,1 % sont partis
 - **Identifié** 6 signaux d'alerte observables avant le départ (baisse d'activité, inactivité, faible équipement…)
 - **Ciblé** 1 900 clients (19 % du portefeuille) qui concentrent **64 % des départs**
 - **Vérifié** les chiffres clés dans 3 outils : Python, SQL et Power BI
 
-**Outils** : Python · SQL (DuckDB) · Power BI — [Voir le projet](https://github.com/Fatima-Zahra37/Projet-depart-clients-banque)
+`Python` `SQL (DuckDB)` `Power BI` → [Voir le projet](https://github.com/Fatima-Zahra37/Projet-depart-clients-banque)
 
 <img src="https://raw.githubusercontent.com/Fatima-Zahra37/Projet-depart-clients-banque/main/images/dashboard_vue_ensemble.png" width="600" alt="Tableau de bord Power BI — départs clients">
 
@@ -39,7 +38,7 @@ Après 15 ans en développement commercial et gestion de comptes (IT, banque, as
 
 ---
 
-### 👗 E-commerce TheLook — performance 2023 vs 2024 (France, rayon Femme)
+### 👗 E-commerce TheLook — performance 2023 vs 2024 (France, rayon Femme) — projet de certification
 **Question métier :** la croissance est-elle rentable, et sur quoi repose-t-elle ?
 - **Mesuré** une croissance du chiffre d'affaires de **+101 %** entre 2023 et 2024, avec une marge qui suit (+99,6 %)
 - **Montré** que la croissance vient du nombre de commandes, pas du panier moyen (+6 % seulement)
