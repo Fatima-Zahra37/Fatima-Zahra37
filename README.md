@@ -11,6 +11,21 @@ Après 15 ans en développement commercial et gestion de comptes (IT, banque, as
 
 ## 🗂️ Projets portfolio
 
+### 🏦 Départs clients cartes de crédit — qui risque de partir ?
+
+**Question métier** : quels clients risquent de résilier leur carte, et quels signaux la banque peut-elle surveiller pour agir à temps ?
+
+- **Analysé** 10 127 clients d'une banque, dont 16,1 % sont partis
+- **Identifié** 6 signaux d'alerte observables avant le départ (baisse d'activité, inactivité, faible équipement…)
+- **Ciblé** 1 900 clients (19 % du portefeuille) qui concentrent **64 % des départs**
+- **Vérifié** les chiffres clés dans 3 outils : Python, SQL et Power BI
+
+**Outils** : Python · SQL (DuckDB) · Power BI — [Voir le projet](https://github.com/Fatima-Zahra37/Projet-depart-clients-banque)
+
+<img src="https://raw.githubusercontent.com/Fatima-Zahra37/Projet-depart-clients-banque/main/images/dashboard_vue_ensemble.png" width="600" alt="Tableau de bord Power BI — départs clients">
+
+---
+
 ### 🚗 Accidents de la route en France 2024 — où agir en priorité ?
 **Question métier :** où, quand et sur qui concentrer les actions de prévention ?
 - **Analysé** 54 402 accidents et 125 187 personnes impliquées (données officielles du ministère de l'Intérieur)
