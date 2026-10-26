@@ -64,16 +64,18 @@ Après 15 ans en développement commercial et gestion de comptes (IT, banque, as
 
 ---
 
-### 💊 Dépenses de médicaments remboursés — pourquoi augmentent-elles ?
+### 💊 Dépenses de médicaments remboursés 2024-2025 — pourquoi augmentent-elles ?
+**Question métier :** pourquoi les dépenses augmentent-elles alors que l'on consomme moins de boîtes ?
+- **Analysé** 3,8 millions de lignes de données ouvertes de l'Assurance Maladie (Open Medic)
+- **Montré** que la hausse (+1,4 Md€, +5,4 %) vient du coût par boîte, et que **10 molécules portent 83 % de la hausse**
+- **Expliqué** pourquoi le Centre-Val de Loire progresse plus vite que la France : une population de patients **plus âgée**
+- **Vérifié** les chiffres clés dans 3 outils : Python, SQL et Power BI
 
-**Question métier :** pourquoi les dépenses de médicaments remboursés augmentent-elles entre 2024 et 2025, alors que le nombre de boîtes baisse ?
+`Python` `SQL (DuckDB)` `Power BI` → [Voir le projet](https://github.com/Fatima-Zahra37/open-medic-depenses-medicaments)
 
-- Analysé **3,8 millions de lignes** de données ouvertes de l'Assurance Maladie (Open Medic)
-- Montré que la hausse (+1,4 Md€, +5,4 %) vient du **coût par boîte**, pas du volume, et que **10 molécules portent 83 % de la hausse**
-- Expliqué pourquoi le **Centre-Val de Loire** progresse plus vite que la moyenne nationale : une population de patients plus âgée
-- Validé les chiffres clés dans **trois outils** (Pandas, SQL DuckDB, Power BI)
+<img src="https://raw.githubusercontent.com/Fatima-Zahra37/open-medic-depenses-medicaments/main/images/dashboard_1_vue_ensemble.png" width="600" alt="Tableau de bord dépenses de médicaments">
 
-**Outils :** Python (Pandas, Matplotlib) · SQL (DuckDB) · Power BI · [Voir le projet](https://github.com/Fatima-Zahra37/open-medic-depenses-medicaments)
+---
 
 ## 🛠️ Compétences
 
